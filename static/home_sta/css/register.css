@@ -1,0 +1,29 @@
+.top {
+    width: 1000px;
+    margin: 10px auto;
+    color: brown;
+    /*font: youyuan;*/
+}
+
+.top .returnIndex {
+    float: right;
+    margin-top: 50px;
+}
+
+.top img {
+    width: 100px;
+    height: 70px;
+}
+
+.middle {
+    width: 1000px;
+    margin: 10px auto;
+}
+
+.middle .page-header {
+    background: cyan;
+}
+
+.middle .register-h1 {
+    text-align: center
+}
